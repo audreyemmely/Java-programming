@@ -1,4 +1,4 @@
-# Fundamentos de programação com Java
+# Curso Fundamentos de programação com Java
 Assuntos abordados:
 
 - Algoritmo e Estrutura de Dados
